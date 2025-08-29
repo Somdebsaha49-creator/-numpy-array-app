@@ -37,3 +37,7 @@ Technologies Used:-
 2. Quick generation of arrays for testing algorithms.
 
 3. Data manipulation exercises and demonstrations.
+
+## 📌 Author
+
+👤 Developed by [**Somdeb Saha**] – exploring the world of Python and building cool projects.
